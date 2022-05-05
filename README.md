@@ -1,2 +1,2 @@
 # COMP167
-Ubuntu vs RetroPie 
+RetroPie on Ubuntu 22.04 LTS
